@@ -1,0 +1,4 @@
+envi_variables.bat
+.idea
+venv
+*.pyc
